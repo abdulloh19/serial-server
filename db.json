@@ -1,0 +1,42 @@
+{
+  "menu": [
+    {
+      "img": "img/tabs/1.png",
+      "altimg": "vegy",
+      "title": "Plan `Usual`",
+      "descr": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit nesciunt facere, sequi exercitationem praesentium ab cupiditate beatae debitis perspiciatis itaque quaerat id modi corporis delectus ratione nobis harum voluptatum in.",
+      "price": 10
+    },
+    {
+      "img": "img/tabs/2.jpg",
+      "altimg": "Premium",
+      "title": "Plan `Premium`",
+      "descr": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit nesciunt facere, sequi exercitationem praesentium ab cupiditate beatae debitis perspiciatis itaque quaerat id modi corporis delectus ratione nobis harum voluptatum in.",
+      "price": 20
+    },
+    {
+      "img": "img/tabs/3.jpg",
+      "altimg": "vip",
+      "title": "Plan `VIP`",
+      "descr": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit nesciunt facere, sequi exercitationem praesentium ab cupiditate beatae debitis perspiciatis itaque quaerat id modi corporis delectus ratione nobis harum voluptatum in.",
+      "price": 30
+    }
+  ],
+  "request": [
+    {
+      "name": "Abdulaziz",
+      "phone": "+998917726263",
+      "id": 1
+    },
+    {
+      "name": "Abdulaziz rozmatov",
+      "phone": "+998917726263",
+      "id": 2
+    },
+    {
+      "name": "Abdulaziz",
+      "phone": "+998917726263",
+      "id": 3
+    }
+  ]
+}
