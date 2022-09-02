@@ -23,5 +23,9 @@
   "homepage": "https://github.com/abdulloh19/serial-server#readme",
   "devDependencies": {
     "json-server": "^0.17.0"
+  },
+  "dependencies": {
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
   }
 }
